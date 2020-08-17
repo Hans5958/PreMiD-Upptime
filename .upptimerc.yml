@@ -1,5 +1,5 @@
 owner: Hans5958
-repo: PreMiD-upptime
+repo: PreMiD-Upptime
 user-agent: Hans5958
 sites:
   - name: Main
@@ -11,6 +11,6 @@ sites:
   - name: API
     url: https://api.premid.app
 status-website:
-  name: PreMiD Upptime
-  introTitle: "Welcome to the **PreMiD's** (unofficial) **Upptime status page**."
-  introMessage: Sometimes [status.premid.app](status.premid.app) is inaccurate because there are some downtimes that are not recorded. Let's fix that.
+  name: PreMiD Status (unofficial)
+  introTitle: "Welcome to **PreMiD**'s (unofficial) Upptime status page."
+  introMessage: Sometimes [status.premid.app](status.premid.app) doesn't record downtimes. This website records downtimes for free, using Github Pages, thanks to [Upptime](https://github.com/koj-co/upptime).
