@@ -6,7 +6,7 @@
 [![Summary CI](https://github.com/Hans5958/PreMiD-Upptime/workflows/Summary%20CI/badge.svg)](https://github.com/Hans5958/PreMiD-Upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/Hans5958/PreMiD-Upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Hans5958/PreMiD-Upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟨 Partial outage**
+Live status: <!--live status--> **🟥 Complete outage**
 
 ## [📈 Status](https://hans5958.me/PreMiD-Upptime)
 
@@ -16,9 +16,9 @@ _This section is updated automatically when the status of any site changes._
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Main](https://premid.app) | 🟥 Down | [main.yml](https://github.com/Hans5958/PreMiD-Upptime/commits/master/history/main.yml) | <img alt="Response time graph" src="./graphs/main.png" height="20"> 490ms | ![Uptime 64.52%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FHans5958%2FPreMiD-Upptime%2Fmaster%2Fapi%2Fmain%2Fuptime.json)
-| [Beta](https://beta.premid.app) | 🟥 Down | [beta.yml](https://github.com/Hans5958/PreMiD-Upptime/commits/master/history/beta.yml) | <img alt="Response time graph" src="./graphs/beta.png" height="20"> 467ms | ![Uptime 65.07%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FHans5958%2FPreMiD-Upptime%2Fmaster%2Fapi%2Fbeta%2Fuptime.json)
-| [Docs](https://docs.premid.app) | 🟩 Up | [docs.yml](https://github.com/Hans5958/PreMiD-Upptime/commits/master/history/docs.yml) | <img alt="Response time graph" src="./graphs/docs.png" height="20"> 1347ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FHans5958%2FPreMiD-Upptime%2Fmaster%2Fapi%2Fdocs%2Fuptime.json)
-| [API](https://api.premid.app) | 🟥 Down | [api.yml](https://github.com/Hans5958/PreMiD-Upptime/commits/master/history/api.yml) | <img alt="Response time graph" src="./graphs/api.png" height="20"> 2745ms | ![Uptime 65.33%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FHans5958%2FPreMiD-Upptime%2Fmaster%2Fapi%2Fapi%2Fuptime.json)
+| [Main](https://premid.app) | 🟥 Down | [main.yml](https://github.com/Hans5958/PreMiD-Upptime/commits/master/history/main.yml) | <img alt="Response time graph" src="./graphs/main.png" height="20"> 490ms | ![Uptime 59.93%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FHans5958%2FPreMiD-Upptime%2Fmaster%2Fapi%2Fmain%2Fuptime.json)
+| [Beta](https://beta.premid.app) | 🟥 Down | [beta.yml](https://github.com/Hans5958/PreMiD-Upptime/commits/master/history/beta.yml) | <img alt="Response time graph" src="./graphs/beta.png" height="20"> 467ms | ![Uptime 60.46%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FHans5958%2FPreMiD-Upptime%2Fmaster%2Fapi%2Fbeta%2Fuptime.json)
+| [Docs](https://docs.premid.app) | 🟥 Down | [docs.yml](https://github.com/Hans5958/PreMiD-Upptime/commits/master/history/docs.yml) | <img alt="Response time graph" src="./graphs/docs.png" height="20"> 1123ms | ![Uptime 99.45%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FHans5958%2FPreMiD-Upptime%2Fmaster%2Fapi%2Fdocs%2Fuptime.json)
+| [API](https://api.premid.app) | 🟥 Down | [api.yml](https://github.com/Hans5958/PreMiD-Upptime/commits/master/history/api.yml) | <img alt="Response time graph" src="./graphs/api.png" height="20"> 2745ms | ![Uptime 60.68%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FHans5958%2FPreMiD-Upptime%2Fmaster%2Fapi%2Fapi%2Fuptime.json)
 
 <!--end: status pages-->
