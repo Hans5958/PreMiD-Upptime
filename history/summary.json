@@ -1,50 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Main",
+    "url": "https://premid.app",
+    "slug": "main",
     "status": "up",
     "uptime": "100.00",
-    "time": 102
+    "time": 980
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Beta",
+    "url": "https://beta.premid.app",
+    "slug": "beta",
     "status": "up",
     "uptime": "100.00",
-    "time": 122
+    "time": 934
   },
   {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
+    "name": "Docs",
+    "url": "https://docs.premid.app",
+    "slug": "docs",
     "status": "up",
     "uptime": "100.00",
-    "time": 581
+    "time": 487
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "API",
+    "url": "https://api.premid.app",
+    "slug": "api",
     "status": "up",
     "uptime": "100.00",
-    "time": 388
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 39
+    "time": 5491
   }
 ]
