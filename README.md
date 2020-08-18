@@ -6,9 +6,13 @@
 [![Summary CI](https://github.com/Hans5958/PreMiD-Upptime/workflows/Summary%20CI/badge.svg)](https://github.com/Hans5958/PreMiD-Upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/Hans5958/PreMiD-Upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Hans5958/PreMiD-Upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
+Welcome to **PreMiD**'s (unofficial) Upptime status repository.
+
+Sometimes [status.premid.app](https://status.premid.app) doesn't record downtimes. This website records downtimes for free, using only GitHub services, thanks to [Upptime](https://github.com/koj-co/upptime).
+
 Live status: <!--live status--> **🟩 All systems operational**
 
-## [📈 Status](https://hans5958.me/PreMiD-Upptime)
+## [📈 Status](https://premid-upptime.netlify.app/)
 
 _This section is updated automatically when the status of any site changes._
 
@@ -22,3 +26,8 @@ _This section is updated automatically when the status of any site changes._
 | [API](https://api.premid.app) | 🟩 Up | [api.yml](https://github.com/Hans5958/PreMiD-Upptime/commits/master/history/api.yml) | <img alt="Response time graph" src="./graphs/api.png" height="20"> 2160ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FHans5958%2FPreMiD-Upptime%2Fmaster%2Fapi%2Fapi%2Fuptime.json)
 
 <!--end: status pages-->
+
+## 📄 License
+
+- Code: [MIT](./LICENSE)
+- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)

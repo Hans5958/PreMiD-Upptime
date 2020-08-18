@@ -12,5 +12,5 @@ sites:
     url: https://api.premid.app
 status-website:
   name: PreMiD Status (unofficial)
-  introTitle: "Welcome to **PreMiD**'s (unofficial) Upptime status page."
-  introMessage: Sometimes [status.premid.app](status.premid.app) doesn't record downtimes. This website records downtimes for free, using Github Pages, thanks to [Upptime](https://github.com/koj-co/upptime).
+  introTitle: Welcome to **PreMiD**'s (unofficial) Upptime status page.
+  introMessage: Sometimes [status.premid.app](https://status.premid.app) doesn't record downtimes. This website records downtimes for free, using only GitHub services, thanks to [Upptime](https://github.com/koj-co/upptime).
