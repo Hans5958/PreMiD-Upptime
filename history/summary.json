@@ -5,7 +5,7 @@
     "slug": "main",
     "status": "up",
     "uptime": "100.00",
-    "time": 1195
+    "time": 1236
   },
   {
     "name": "Beta",
@@ -13,7 +13,7 @@
     "slug": "beta",
     "status": "up",
     "uptime": "100.00",
-    "time": 1095
+    "time": 1110
   },
   {
     "name": "Docs",
@@ -29,6 +29,6 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00",
-    "time": 923
+    "time": 920
   }
 ]
