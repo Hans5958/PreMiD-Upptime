@@ -19,9 +19,9 @@
     "name": "Docs",
     "url": "https://docs.premid.app",
     "slug": "docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 2572
+    "time": 2497
   },
   {
     "name": "API",
