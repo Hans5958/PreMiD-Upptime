@@ -1,6 +1,6 @@
 - url: https://beta.premid.app
-- status: down
-- code: 500
-- responseTime: 468
-- lastUpdated: 2020-11-21T18:31:04.087Z
+- status: up
+- code: 200
+- responseTime: 10329
+- lastUpdated: 2020-11-21T18:40:34.796Z
 - startTime: 2020-08-17T15:16:53.718Z
