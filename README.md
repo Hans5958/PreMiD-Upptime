@@ -14,8 +14,6 @@ Live status: <!--live status--> **🟩 All systems operational**
 
 ## [📈 Status](https://premid-upptime.netlify.app/)
 
-_This section is updated automatically when the status of any site changes._
-
 <!--start: status pages-->
 
 | URL | Status | History | Response Time | Uptime |
