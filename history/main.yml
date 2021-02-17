@@ -1,6 +1,6 @@
 - url: https://premid.app
-- status: down
-- code: 502
-- responseTime: 438
-- lastUpdated: 2021-02-17T15:00:02.532Z
+- status: up
+- code: 200
+- responseTime: 1025
+- lastUpdated: 2021-02-17T15:25:50.980Z
 - startTime: 2020-08-17T15:16:51.768Z
