@@ -27,8 +27,8 @@
     "name": "API",
     "url": "https://api.premid.app",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.97",
-    "time": 1118
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1115
   }
 ]
