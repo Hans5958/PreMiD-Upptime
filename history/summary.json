@@ -3,17 +3,17 @@
     "name": "Main",
     "url": "https://premid.app",
     "slug": "main",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 2847
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2875
   },
   {
     "name": "Beta",
     "url": "https://beta.premid.app",
     "slug": "beta",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 2700
+    "time": 2737
   },
   {
     "name": "Docs",
