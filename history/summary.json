@@ -4,15 +4,15 @@
     "url": "https://premid.app",
     "slug": "main",
     "status": "down",
-    "uptime": "99.98",
+    "uptime": "99.89",
     "time": 2683
   },
   {
     "name": "Beta",
     "url": "https://beta.premid.app",
     "slug": "beta",
-    "status": "down",
-    "uptime": "99.97",
+    "status": "up",
+    "uptime": "100.00",
     "time": 2623
   },
   {
@@ -27,8 +27,8 @@
     "name": "API",
     "url": "https://api.premid.app",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.97",
-    "time": 1212
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1211
   }
 ]
