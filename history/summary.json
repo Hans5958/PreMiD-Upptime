@@ -5,7 +5,7 @@
     "slug": "main",
     "status": "up",
     "uptime": "100.00",
-    "time": 3823
+    "time": 3886
   },
   {
     "name": "Beta",
@@ -13,7 +13,7 @@
     "slug": "beta",
     "status": "up",
     "uptime": "100.00",
-    "time": 2903
+    "time": 3074
   },
   {
     "name": "Docs",
@@ -28,7 +28,7 @@
     "url": "https://api.premid.app",
     "slug": "api",
     "status": "down",
-    "uptime": "99.99",
-    "time": 1372
+    "uptime": "99.98",
+    "time": 1365
   }
 ]
