@@ -1,6 +1,6 @@
 owner: Hans5958
 repo: PreMiD-Upptime
-user-agent: Hans5958
+
 sites:
   - name: Main
     url: https://premid.app
@@ -10,7 +10,17 @@ sites:
     url: https://docs.premid.app
   - name: API
     url: https://api.premid.app
+
 status-website:
   name: PreMiD Status (unofficial)
   introTitle: Welcome to **PreMiD**'s (unofficial) Upptime status page.
-  introMessage: Sometimes [status.premid.app](https://status.premid.app) doesn't record downtimes. This website records downtimes for free, using only GitHub services, thanks to [Upptime](https://github.com/koj-co/upptime).
+  introMessage: Sometimes [status.premid.app](https://status.premid.app) doesn't record downtimes. This website records downtimes for free, using only GitHub services, thanks to [Upptime](https://github.com/upptime/upptime).
+  cname: premid-upptime.netlify.app
+
+user-agent: Auto5958
+commitMessages:
+  commitAuthorName: Auto5958
+  commitAuthorEmail: 69833949+Auto5958@users.noreply.github.com
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
