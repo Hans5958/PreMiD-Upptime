@@ -5,7 +5,7 @@
     "slug": "main",
     "status": "down",
     "uptime": "99.99",
-    "time": 3653
+    "time": 3510
   },
   {
     "name": "Beta",
@@ -29,6 +29,6 @@
     "slug": "api",
     "status": "down",
     "uptime": "99.99",
-    "time": 1680
+    "time": 1618
   }
 ]
