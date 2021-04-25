@@ -4,17 +4,17 @@
     "url": "https://premid.app",
     "icon": "https://favicons.githubusercontent.com/premid.app",
     "slug": "main",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "93.58%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "93.57%",
     "uptimeWeek": "92.61%",
     "uptimeMonth": "96.37%",
-    "uptimeYear": "99.24%",
-    "time": 2147,
-    "timeDay": 2474,
-    "timeWeek": 3584,
-    "timeMonth": 3815,
-    "timeYear": 2147,
+    "uptimeYear": "99.34%",
+    "time": 2145,
+    "timeDay": 2381,
+    "timeWeek": 3544,
+    "timeMonth": 3802,
+    "timeYear": 2145,
     "dailyMinutesDown": {
       "2021-04-25": 40,
       "2021-04-24": 69,
@@ -56,8 +56,7 @@
       "2021-03-07": 59,
       "2021-03-06": 24,
       "2021-03-03": 68,
-      "2021-03-02": 464,
-      "2021-03-01": 39
+      "2021-03-02": 168
     }
   },
   {
@@ -69,7 +68,7 @@
     "uptime": "88.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.49%",
+    "uptimeMonth": "46.46%",
     "uptimeYear": "88.36%",
     "time": 1846,
     "timeDay": 661,
@@ -77,7 +76,7 @@
     "timeMonth": 2453,
     "timeYear": 1846,
     "dailyMinutesDown": {
-      "2021-04-25": 833,
+      "2021-04-25": 847,
       "2021-04-24": 1440,
       "2021-04-23": 1440,
       "2021-04-22": 1440,
@@ -205,17 +204,17 @@
     "url": "https://api.premid.app",
     "icon": "https://favicons.githubusercontent.com/api.premid.app",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "94.01%",
+    "uptimeDay": "94.00%",
     "uptimeWeek": "95.76%",
-    "uptimeMonth": "94.86%",
+    "uptimeMonth": "94.89%",
     "uptimeYear": "98.98%",
-    "time": 1674,
-    "timeDay": 3683,
-    "timeWeek": 3074,
-    "timeMonth": 2766,
-    "timeYear": 1674,
+    "time": 1673,
+    "timeDay": 3431,
+    "timeWeek": 3032,
+    "timeMonth": 2755,
+    "timeYear": 1673,
     "dailyMinutesDown": {
       "2021-04-25": 33,
       "2021-04-24": 134,
@@ -247,7 +246,7 @@
       "2021-03-25": 1138,
       "2021-03-24": 517,
       "2021-03-23": 43,
-      "2021-03-22": 58
+      "2021-03-22": 30
     }
   }
 ]
