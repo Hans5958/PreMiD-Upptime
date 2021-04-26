@@ -1,6 +1,7 @@
-- url: https://premid.app
-- status: down
-- code: 502
-- responseTime: 746
-- lastUpdated: 2021-04-26T05:12:04.849Z
-- startTime: 2020-08-17T15:16:51.768Z
+url: https://premid.app
+status: up
+code: 200
+responseTime: 783
+lastUpdated: 2021-04-26T05:26:28.626Z
+startTime: Mon Aug 17 2020 15:16:51 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
