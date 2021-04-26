@@ -16,6 +16,11 @@ status-website:
   introTitle: Welcome to **PreMiD**'s (unofficial) Upptime status page.
   introMessage: Sometimes [status.premid.app](https://status.premid.app) doesn't record downtimes. This website records downtimes for free, using only GitHub services, thanks to [Upptime](https://github.com/upptime/upptime).
   cname: premid-upptime.netlify.app
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 user-agent: Auto5958
 commitMessages:
