@@ -4,10 +4,10 @@
     "url": "https://premid.app",
     "icon": "https://favicons.githubusercontent.com/premid.app",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "64.16%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "64.14%",
     "uptimeMonth": "89.27%",
     "uptimeYear": "98.58%",
     "time": 2176,
@@ -16,7 +16,7 @@
     "timeMonth": 3435,
     "timeYear": 2176,
     "dailyMinutesDown": {
-      "2021-05-14": 32,
+      "2021-05-14": 33,
       "2021-05-13": 1049,
       "2021-05-12": 1440,
       "2021-05-11": 260,
@@ -58,8 +58,7 @@
       "2021-03-27": 96,
       "2021-03-26": 32,
       "2021-03-23": 14,
-      "2021-03-22": 109,
-      "2021-03-21": 16
+      "2021-03-22": 109
     }
   },
   {
@@ -69,7 +68,7 @@
     "slug": "beta",
     "status": "down",
     "uptime": "82.86%",
-    "uptimeDay": "99.52%",
+    "uptimeDay": "98.76%",
     "uptimeWeek": "30.71%",
     "uptimeMonth": "8.45%",
     "uptimeYear": "82.86%",
@@ -79,7 +78,7 @@
     "timeMonth": 672,
     "timeYear": 1827,
     "dailyMinutesDown": {
-      "2021-05-14": 6,
+      "2021-05-14": 17,
       "2021-05-13": 1246,
       "2021-05-12": 1440,
       "2021-05-11": 274,
