@@ -67,11 +67,11 @@
     "url": "https://beta.premid.app",
     "icon": "https://favicons.githubusercontent.com/beta.premid.app",
     "slug": "beta",
-    "status": "up",
+    "status": "down",
     "uptime": "82.86%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "30.51%",
-    "uptimeMonth": "8.40%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "30.71%",
+    "uptimeMonth": "8.45%",
     "uptimeYear": "82.86%",
     "time": 1827,
     "timeDay": 3517,
@@ -179,8 +179,7 @@
       "2020-10-31": 14,
       "2020-10-30": 30,
       "2020-10-28": 24,
-      "2020-10-26": 43,
-      "2020-10-25": 14
+      "2020-10-26": 43
     }
   },
   {
