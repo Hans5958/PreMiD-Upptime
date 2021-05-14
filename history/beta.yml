@@ -1,7 +1,7 @@
 url: https://beta.premid.app
-status: up
-code: 200
-responseTime: 632
-lastUpdated: 2021-05-13T23:27:42.190Z
+status: down
+code: 500
+responseTime: 589
+lastUpdated: 2021-05-14T19:47:46.861Z
 startTime: Mon Aug 17 2020 15:16:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
