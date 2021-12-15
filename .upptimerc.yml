@@ -12,6 +12,8 @@ sites:
     url: https://api.premid.app/v3
     method: POST
     body: 'query { usage { count } }'
+    expectedStatusCodes:
+      - 415
 
 status-website:
   name: PreMiD Status (unofficial)
