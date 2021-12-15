@@ -9,9 +9,9 @@ sites:
   - name: Docs
     url: https://docs.premid.app
   - name: API
-    url: https://api.premid.app
+    url: https://api.premid.app/v3
     method: POST
-    body: 'query{ usage { count } }'
+    body: 'query { usage { count } }'
 
 status-website:
   name: PreMiD Status (unofficial)
