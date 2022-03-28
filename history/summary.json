@@ -4,17 +4,17 @@
     "url": "https://premid.app",
     "icon": "https://favicons.githubusercontent.com/premid.app",
     "slug": "main",
-    "status": "up",
-    "uptime": "95.94%",
-    "uptimeDay": "97.98%",
+    "status": "down",
+    "uptime": "95.95%",
+    "uptimeDay": "97.97%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "93.47%",
-    "time": 2712,
+    "time": 2713,
     "timeDay": 677,
     "timeWeek": 596,
     "timeMonth": 651,
-    "timeYear": 2470,
+    "timeYear": 2471,
     "dailyMinutesDown": {
       "2022-03-28": 29,
       "2022-03-25": 95,
@@ -105,7 +105,7 @@
       "2021-05-08": 16,
       "2021-05-07": 7,
       "2021-05-05": 18,
-      "2021-05-02": 33
+      "2021-05-02": 14
     }
   },
   {
@@ -118,14 +118,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "4.21%",
+    "uptimeYear": "4.19%",
     "time": 1580,
     "timeDay": 662,
     "timeWeek": 504,
     "timeMonth": 465,
-    "timeYear": 1128,
+    "timeYear": 1127,
     "dailyMinutesDown": {
-      "2022-03-28": 1074,
+      "2022-03-28": 1169,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
@@ -503,7 +503,7 @@
     "timeDay": 911,
     "timeWeek": 4223,
     "timeMonth": 1390,
-    "timeYear": 972,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2022-03-14": 358,
       "2022-03-01": 32,
@@ -578,7 +578,7 @@
     "timeDay": 286,
     "timeWeek": 286,
     "timeMonth": 273,
-    "timeYear": 1734,
+    "timeYear": 1735,
     "dailyMinutesDown": {
       "2022-02-05": 19,
       "2021-12-15": 64,
