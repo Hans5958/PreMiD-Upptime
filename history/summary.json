@@ -6,15 +6,15 @@
     "slug": "main",
     "status": "up",
     "uptime": "96.10%",
-    "uptimeDay": "93.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "93.44%",
-    "time": 2315,
-    "timeDay": 430,
-    "timeWeek": 525,
+    "time": 2313,
+    "timeDay": 564,
+    "timeWeek": 532,
     "timeMonth": 784,
-    "timeYear": 1748,
+    "timeYear": 1749,
     "dailyMinutesDown": {
       "2022-04-23": 23,
       "2022-04-22": 76,
@@ -114,18 +114,19 @@
     "icon": "https://favicons.githubusercontent.com/beta.premid.app",
     "slug": "beta",
     "status": "down",
-    "uptime": "36.72%",
+    "uptime": "36.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.02%",
-    "time": 955,
-    "timeDay": 277,
-    "timeWeek": 396,
+    "time": 954,
+    "timeDay": 378,
+    "timeWeek": 388,
     "timeMonth": 484,
-    "timeYear": 508,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2022-04-23": 1194,
+      "2022-04-24": 63,
+      "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
@@ -488,8 +489,7 @@
       "2021-04-28": 1440,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
-      "2021-04-25": 1440,
-      "2021-04-24": 1440
+      "2021-04-25": 1440
     }
   },
   {
@@ -499,13 +499,13 @@
     "slug": "docs",
     "status": "up",
     "uptime": "97.48%",
-    "uptimeDay": "92.57%",
+    "uptimeDay": "99.48%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "95.90%",
     "time": 951,
-    "timeDay": 5536,
-    "timeWeek": 2851,
+    "timeDay": 8964,
+    "timeWeek": 2843,
     "timeMonth": 1743,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -569,8 +569,7 @@
       "2021-06-06": 30,
       "2021-05-14": 29,
       "2021-05-13": 238,
-      "2021-04-25": 1,
-      "2021-04-24": 108
+      "2021-04-25": 1
     }
   },
   {
@@ -580,15 +579,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "90.62%",
-    "uptimeDay": "93.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "84.36%",
-    "time": 1527,
-    "timeDay": 362,
-    "timeWeek": 306,
-    "timeMonth": 331,
-    "timeYear": 1189,
+    "time": 1526,
+    "timeDay": 137,
+    "timeWeek": 279,
+    "timeMonth": 330,
+    "timeYear": 1188,
     "dailyMinutesDown": {
       "2022-04-23": 23,
       "2022-04-22": 76,
@@ -692,8 +691,7 @@
       "2021-05-13": 359,
       "2021-04-29": 23,
       "2021-04-27": 20,
-      "2021-04-25": 48,
-      "2021-04-24": 134
+      "2021-04-25": 48
     }
   }
 ]
