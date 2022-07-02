@@ -11,8 +11,8 @@
     "uptimeMonth": "98.95%",
     "uptimeYear": "93.89%",
     "time": 1519,
-    "timeDay": 539,
-    "timeWeek": 515,
+    "timeDay": 536,
+    "timeWeek": 519,
     "timeMonth": 1027,
     "timeYear": 1353,
     "dailyMinutesDown": {
@@ -99,8 +99,7 @@
       "2021-07-18": 28,
       "2021-07-17": 43,
       "2021-07-12": 83,
-      "2021-07-06": 19,
-      "2021-07-02": 9
+      "2021-07-06": 19
     }
   },
   {
@@ -109,18 +108,19 @@
     "icon": "https://favicons.githubusercontent.com/beta.premid.app",
     "slug": "beta",
     "status": "down",
-    "uptime": "33.01%",
+    "uptime": "33.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.42%",
     "time": 507,
-    "timeDay": 552,
-    "timeWeek": 563,
+    "timeDay": 627,
+    "timeWeek": 562,
     "timeMonth": 519,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2022-07-01": 1369,
+      "2022-07-02": 76,
+      "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
@@ -483,8 +483,7 @@
       "2021-07-06": 1440,
       "2021-07-05": 1440,
       "2021-07-04": 1440,
-      "2021-07-03": 1440,
-      "2021-07-02": 1440
+      "2021-07-03": 1440
     }
   },
   {
@@ -496,12 +495,12 @@
     "uptime": "96.89%",
     "uptimeDay": "98.18%",
     "uptimeWeek": "91.33%",
-    "uptimeMonth": "95.09%",
+    "uptimeMonth": "95.43%",
     "uptimeYear": "94.45%",
-    "time": 956,
-    "timeDay": 524,
-    "timeWeek": 516,
-    "timeMonth": 603,
+    "time": 957,
+    "timeDay": 555,
+    "timeWeek": 520,
+    "timeMonth": 609,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2022-07-01": 26,
@@ -586,11 +585,11 @@
     "uptimeWeek": "98.07%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "84.54%",
-    "time": 1052,
-    "timeDay": 341,
-    "timeWeek": 284,
-    "timeMonth": 305,
-    "timeYear": 749,
+    "time": 1051,
+    "timeDay": 360,
+    "timeWeek": 272,
+    "timeMonth": 308,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2022-07-01": 26,
       "2022-06-30": 151,
@@ -684,8 +683,7 @@
       "2021-07-17": 23,
       "2021-07-13": 42,
       "2021-07-12": 39,
-      "2021-07-06": 51,
-      "2021-07-02": 24
+      "2021-07-06": 51
     }
   }
 ]
