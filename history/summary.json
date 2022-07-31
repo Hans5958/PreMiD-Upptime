@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/premid.app",
     "slug": "main",
     "status": "up",
-    "uptime": "96.85%",
+    "uptime": "96.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "94.92%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "95.19%",
     "time": 1484,
-    "timeDay": 538,
-    "timeWeek": 593,
-    "timeMonth": 586,
-    "timeYear": 1277,
+    "timeDay": 707,
+    "timeWeek": 616,
+    "timeMonth": 588,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2022-07-02": 19,
       "2022-07-01": 26,
@@ -87,8 +87,7 @@
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
-      "2021-08-01": 1440,
-      "2021-07-31": 1440
+      "2021-08-01": 1440
     }
   },
   {
@@ -97,18 +96,19 @@
     "icon": "https://favicons.githubusercontent.com/beta.premid.app",
     "slug": "beta",
     "status": "down",
-    "uptime": "31.70%",
+    "uptime": "31.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.42%",
     "time": 504,
-    "timeDay": 375,
-    "timeWeek": 463,
-    "timeMonth": 475,
-    "timeYear": 486,
+    "timeDay": 526,
+    "timeWeek": 487,
+    "timeMonth": 477,
+    "timeYear": 487,
     "dailyMinutesDown": {
-      "2022-07-30": 79,
+      "2022-07-31": 104,
+      "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
@@ -471,8 +471,7 @@
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
-      "2021-08-01": 1440,
-      "2021-07-31": 1440
+      "2021-08-01": 1440
     }
   },
   {
@@ -481,16 +480,16 @@
     "icon": "https://favicons.githubusercontent.com/docs.premid.app",
     "slug": "docs",
     "status": "up",
-    "uptime": "96.85%",
+    "uptime": "96.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.12%",
-    "uptimeMonth": "95.54%",
-    "uptimeYear": "95.12%",
+    "uptimeWeek": "91.06%",
+    "uptimeMonth": "95.59%",
+    "uptimeYear": "95.40%",
     "time": 958,
-    "timeDay": 561,
-    "timeWeek": 632,
-    "timeMonth": 618,
-    "timeYear": 1006,
+    "timeDay": 748,
+    "timeWeek": 712,
+    "timeMonth": 621,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2022-07-24": 1005,
       "2022-07-23": 395,
@@ -551,8 +550,7 @@
       "2021-08-14": 56,
       "2021-08-11": 892,
       "2021-08-06": 877,
-      "2021-08-05": 388,
-      "2021-07-31": 95
+      "2021-08-05": 388
     }
   },
   {
@@ -561,16 +559,16 @@
     "icon": "https://favicons.githubusercontent.com/api.premid.app",
     "slug": "api",
     "status": "up",
-    "uptime": "91.88%",
+    "uptime": "91.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "85.56%",
-    "time": 957,
-    "timeDay": 209,
-    "timeWeek": 218,
-    "timeMonth": 264,
-    "timeYear": 684,
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "85.83%",
+    "time": 940,
+    "timeDay": 539,
+    "timeWeek": 271,
+    "timeMonth": 270,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2022-07-02": 19,
       "2022-07-01": 26,
@@ -652,8 +650,7 @@
       "2021-08-11": 1098,
       "2021-08-10": 27,
       "2021-08-06": 877,
-      "2021-08-05": 387,
-      "2021-07-31": 95
+      "2021-08-05": 387
     }
   }
 ]
