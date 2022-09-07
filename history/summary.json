@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/premid.app",
     "slug": "main",
     "status": "up",
-    "uptime": "97.01%",
+    "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.32%",
     "time": 1367,
-    "timeDay": 535,
-    "timeWeek": 523,
-    "timeMonth": 1257,
+    "timeDay": 793,
+    "timeWeek": 560,
+    "timeMonth": 1265,
     "timeYear": 1273,
     "dailyMinutesDown": {
       "2022-08-15": 13,
@@ -77,18 +77,19 @@
     "icon": "https://favicons.githubusercontent.com/beta.premid.app",
     "slug": "beta",
     "status": "down",
-    "uptime": "30.10%",
+    "uptime": "30.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 500,
-    "timeDay": 419,
-    "timeWeek": 442,
-    "timeMonth": 493,
+    "time": 501,
+    "timeDay": 620,
+    "timeWeek": 473,
+    "timeMonth": 500,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2022-09-06": 110,
+      "2022-09-07": 105,
+      "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -451,8 +452,7 @@
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
-      "2021-09-08": 1440,
-      "2021-09-07": 1440
+      "2021-09-08": 1440
     }
   },
   {
@@ -465,11 +465,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.12%",
-    "time": 974,
-    "timeDay": 518,
-    "timeWeek": 593,
-    "timeMonth": 675,
+    "uptimeYear": "96.39%",
+    "time": 973,
+    "timeDay": 824,
+    "timeWeek": 629,
+    "timeMonth": 683,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2022-07-24": 1005,
@@ -516,8 +516,7 @@
       "2021-10-23": 19,
       "2021-10-15": 40,
       "2021-10-02": 610,
-      "2021-10-01": 775,
-      "2021-09-07": 86
+      "2021-10-01": 775
     }
   },
   {
@@ -526,15 +525,15 @@
     "icon": "https://favicons.githubusercontent.com/api.premid.app",
     "slug": "api",
     "status": "up",
-    "uptime": "92.29%",
+    "uptime": "92.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.60%",
+    "uptimeYear": "86.87%",
     "time": 808,
-    "timeDay": 242,
-    "timeWeek": 213,
-    "timeMonth": 307,
+    "timeDay": 638,
+    "timeWeek": 274,
+    "timeMonth": 321,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2022-07-02": 19,
@@ -601,8 +600,7 @@
       "2021-10-15": 44,
       "2021-10-12": 51,
       "2021-10-02": 609,
-      "2021-10-01": 773,
-      "2021-09-07": 86
+      "2021-10-01": 773
     }
   }
 ]
