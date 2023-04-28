@@ -11,10 +11,10 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.67%",
     "time": 983,
-    "timeDay": 739,
-    "timeWeek": 739,
-    "timeMonth": 1447,
-    "timeYear": 932,
+    "timeDay": 761,
+    "timeWeek": 763,
+    "timeMonth": 1442,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2023-03-28": 7,
       "2023-03-13": 16,
@@ -41,8 +41,7 @@
       "2022-05-14": 60,
       "2022-05-12": 271,
       "2022-05-11": 15,
-      "2022-05-08": 8,
-      "2022-04-28": 347
+      "2022-05-08": 8
     }
   },
   {
@@ -51,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "down",
-    "uptime": "22.96%",
+    "uptime": "22.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 497,
-    "timeDay": 501,
-    "timeWeek": 491,
-    "timeMonth": 462,
+    "timeDay": 503,
+    "timeWeek": 507,
+    "timeMonth": 458,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2023-04-27": 62,
+      "2023-04-28": 61,
+      "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
@@ -425,8 +425,7 @@
       "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
-      "2022-04-29": 1440,
-      "2022-04-28": 1440
+      "2022-04-29": 1440
     }
   },
   {
@@ -441,9 +440,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.79%",
     "time": 829,
-    "timeDay": 718,
-    "timeWeek": 664,
-    "timeMonth": 631,
+    "timeDay": 706,
+    "timeWeek": 690,
+    "timeMonth": 627,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-03-02": 256,
@@ -489,8 +488,7 @@
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
-      "2022-05-01": 109,
-      "2022-04-28": 360
+      "2022-05-01": 109
     }
   },
   {
@@ -504,10 +502,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.82%",
-    "time": 316,
-    "timeDay": 251,
-    "timeWeek": 345,
-    "timeMonth": 288,
+    "time": 314,
+    "timeDay": 229,
+    "timeWeek": 351,
+    "timeMonth": 277,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-03-28": 14,
