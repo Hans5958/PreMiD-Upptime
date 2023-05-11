@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 931,
-    "timeDay": 584,
-    "timeWeek": 769,
-    "timeMonth": 717,
-    "timeYear": 941,
+    "timeDay": 565,
+    "timeWeek": 718,
+    "timeMonth": 712,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2023-03-28": 7,
       "2023-03-13": 16,
@@ -39,8 +39,7 @@
       "2022-06-21": 36,
       "2022-06-06": 228,
       "2022-05-14": 60,
-      "2022-05-12": 271,
-      "2022-05-11": 15
+      "2022-05-12": 271
     }
   },
   {
@@ -49,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "down",
-    "uptime": "22.66%",
+    "uptime": "22.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 495,
-    "timeDay": 376,
-    "timeWeek": 505,
-    "timeMonth": 473,
-    "timeYear": 503,
+    "timeDay": 375,
+    "timeWeek": 467,
+    "timeMonth": 469,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2023-05-10": 59,
+      "2023-05-11": 61,
+      "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
@@ -423,8 +423,7 @@
       "2022-05-15": 1440,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
-      "2022-05-12": 1440,
-      "2022-05-11": 1440
+      "2022-05-12": 1440
     }
   },
   {
@@ -438,11 +437,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.90%",
-    "time": 822,
-    "timeDay": 539,
-    "timeWeek": 696,
-    "timeMonth": 644,
-    "timeYear": 760,
+    "time": 821,
+    "timeDay": 526,
+    "timeWeek": 655,
+    "timeMonth": 640,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2023-03-02": 256,
       "2023-01-27": 16,
@@ -497,9 +496,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 310,
-    "timeDay": 162,
-    "timeWeek": 233,
-    "timeMonth": 285,
+    "timeDay": 360,
+    "timeWeek": 245,
+    "timeMonth": 289,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2023-03-28": 14,
