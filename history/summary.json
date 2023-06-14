@@ -4,17 +4,17 @@
     "url": "https://premid.app",
     "icon": "https://icons.duckduckgo.com/ip3/premid.app.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "63.99%",
+    "uptimeDay": "64.10%",
     "uptimeWeek": "88.02%",
     "uptimeMonth": "96.87%",
     "uptimeYear": "99.60%",
     "time": 894,
-    "timeDay": 833,
-    "timeWeek": 829,
-    "timeMonth": 870,
-    "timeYear": 940,
+    "timeDay": 822,
+    "timeWeek": 826,
+    "timeMonth": 867,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2023-06-14": 426,
       "2023-06-13": 472,
@@ -40,8 +40,7 @@
       "2022-08-15": 13,
       "2022-07-02": 19,
       "2022-07-01": 26,
-      "2022-06-30": 151,
-      "2022-06-29": 8
+      "2022-06-30": 151
     }
   },
   {
@@ -61,7 +60,7 @@
     "timeMonth": 454,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2023-06-14": 1094,
+      "2023-06-14": 1108,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
