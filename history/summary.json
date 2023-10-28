@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 921,
-    "timeDay": 758,
-    "timeWeek": 761,
-    "timeMonth": 759,
+    "timeDay": 654,
+    "timeWeek": 760,
+    "timeMonth": 754,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2023-09-21": 16,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "down",
-    "uptime": "19.35%",
+    "uptime": "19.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 505,
-    "timeDay": 485,
-    "timeWeek": 487,
-    "timeMonth": 488,
+    "timeDay": 384,
+    "timeWeek": 483,
+    "timeMonth": 484,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-10-27": 52,
+      "2023-10-28": 51,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -406,8 +407,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   },
   {
@@ -422,9 +422,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.72%",
     "time": 750,
-    "timeDay": 679,
-    "timeWeek": 681,
-    "timeMonth": 694,
+    "timeDay": 642,
+    "timeWeek": 698,
+    "timeMonth": 691,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2023-07-27": 33,
@@ -444,8 +444,7 @@
       "2022-11-20": 96,
       "2022-11-18": 24,
       "2022-11-06": 875,
-      "2022-10-29": 788,
-      "2022-10-28": 1028
+      "2022-10-29": 788
     }
   },
   {
@@ -454,15 +453,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.premid.app.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "95.02%",
+    "uptime": "95.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 341,
-    "timeDay": 254,
-    "timeWeek": 257,
-    "timeMonth": 342,
+    "timeDay": 404,
+    "timeWeek": 261,
+    "timeMonth": 339,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2023-07-27": 33,
