@@ -11,9 +11,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.38%",
     "time": 950,
-    "timeDay": 591,
-    "timeWeek": 634,
-    "timeMonth": 678,
+    "timeDay": 635,
+    "timeWeek": 601,
+    "timeMonth": 681,
     "timeYear": 979,
     "dailyMinutesDown": {
       "2024-02-26": 8,
@@ -60,18 +60,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "down",
-    "uptime": "17.48%",
+    "uptime": "17.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 501,
+    "time": 500,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 491,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-02-29": 52,
+      "2024-03-01": 57,
+      "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -434,8 +435,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -445,14 +445,14 @@
     "slug": "docs",
     "status": "up",
     "uptime": "98.56%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.55%",
     "time": 830,
-    "timeDay": 2708,
-    "timeWeek": 2179,
-    "timeMonth": 1416,
+    "timeDay": 663,
+    "timeWeek": 1352,
+    "timeMonth": 1471,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2024-02-28": 76,
@@ -481,8 +481,7 @@
       "2023-07-25": 80,
       "2023-06-22": 18,
       "2023-06-16": 230,
-      "2023-06-11": 8,
-      "2023-03-02": 256
+      "2023-06-11": 8
     }
   },
   {
@@ -497,9 +496,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.41%",
     "time": 396,
-    "timeDay": 227,
-    "timeWeek": 1335,
-    "timeMonth": 651,
+    "timeDay": 150,
+    "timeWeek": 1325,
+    "timeMonth": 671,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2024-02-25": 16,
@@ -542,8 +541,7 @@
       "2023-05-21": 8,
       "2023-03-28": 14,
       "2023-03-13": 33,
-      "2023-03-10": 10,
-      "2023-03-02": 16
+      "2023-03-10": 10
     }
   }
 ]
