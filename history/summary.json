@@ -11,9 +11,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.38%",
     "time": 960,
-    "timeDay": 649,
-    "timeWeek": 1429,
-    "timeMonth": 853,
+    "timeDay": 666,
+    "timeWeek": 1435,
+    "timeMonth": 854,
     "timeYear": 988,
     "dailyMinutesDown": {
       "2024-03-09": 22,
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "down",
-    "uptime": "17.33%",
+    "uptime": "17.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 498,
+    "time": 499,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 491,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2024-03-11": 53,
+      "2024-03-12": 52,
+      "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -435,8 +436,7 @@
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
-      "2023-03-14": 1440,
-      "2023-03-13": 1440
+      "2023-03-14": 1440
     }
   },
   {
@@ -450,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 833,
-    "timeDay": 696,
-    "timeWeek": 845,
+    "time": 834,
+    "timeDay": 770,
+    "timeWeek": 839,
     "timeMonth": 1517,
-    "timeYear": 887,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2024-02-28": 76,
       "2024-02-27": 8,
@@ -494,12 +494,12 @@
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.41%",
-    "time": 395,
-    "timeDay": 504,
-    "timeWeek": 258,
-    "timeMonth": 702,
+    "time": 394,
+    "timeDay": 164,
+    "timeWeek": 259,
+    "timeMonth": 728,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2024-02-25": 16,
@@ -540,8 +540,7 @@
       "2023-05-28": 8,
       "2023-05-27": 42,
       "2023-05-21": 8,
-      "2023-03-28": 14,
-      "2023-03-13": 33
+      "2023-03-28": 14
     }
   }
 ]
