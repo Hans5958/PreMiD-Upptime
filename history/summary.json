@@ -80,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "20.90%",
+    "uptime": "20.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.89%",
+    "uptimeYear": "24.96%",
     "time": 596,
     "timeDay": 847,
     "timeWeek": 902,
@@ -439,18 +439,19 @@
     "url": "https://api.premid.app/v3",
     "icon": "https://icons.duckduckgo.com/ip3/api.premid.app.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.51%",
     "time": 378,
-    "timeDay": 219,
-    "timeWeek": 272,
+    "timeDay": 334,
+    "timeWeek": 294,
     "timeMonth": 446,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2024-10-14": 0,
       "2024-09-23": 16,
       "2024-09-18": 98,
       "2024-09-14": 67,
@@ -502,7 +503,7 @@
       "2023-11-15": 408,
       "2023-11-14": 19,
       "2023-11-12": 82,
-      "2023-11-11": 697
+      "2023-11-11": 16
     }
   }
 ]
