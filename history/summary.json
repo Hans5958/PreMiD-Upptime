@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.63%",
-    "time": 1018,
-    "timeDay": 791,
-    "timeWeek": 844,
-    "timeMonth": 1111,
+    "time": 1017,
+    "timeDay": 681,
+    "timeWeek": 814,
+    "timeMonth": 1103,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2024-10-25": 31,
@@ -81,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "22.29%",
+    "uptime": "22.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.29%",
+    "uptimeYear": "32.56%",
     "time": 633,
-    "timeDay": 1012,
-    "timeWeek": 802,
-    "timeMonth": 867,
-    "timeYear": 734,
+    "timeDay": 691,
+    "timeWeek": 796,
+    "timeMonth": 859,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2024-07-14": 278,
       "2024-07-13": 1440,
@@ -336,8 +336,7 @@
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
-      "2023-11-13": 1440,
-      "2023-11-12": 1440
+      "2023-11-13": 1440
     }
   },
   {
@@ -350,12 +349,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 919,
-    "timeDay": 1234,
-    "timeWeek": 1353,
-    "timeMonth": 1270,
-    "timeYear": 952,
+    "uptimeYear": "99.59%",
+    "time": 920,
+    "timeDay": 1021,
+    "timeWeek": 1316,
+    "timeMonth": 1227,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2024-09-14": 11,
       "2024-09-13": 8,
@@ -418,10 +417,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.50%",
     "time": 372,
-    "timeDay": 161,
-    "timeWeek": 258,
-    "timeMonth": 262,
-    "timeYear": 358,
+    "timeDay": 199,
+    "timeWeek": 256,
+    "timeMonth": 260,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2024-11-04": 14,
       "2024-10-14": 20,
@@ -474,8 +473,7 @@
       "2023-11-19": 216,
       "2023-11-16": 42,
       "2023-11-15": 408,
-      "2023-11-14": 19,
-      "2023-11-12": 82
+      "2023-11-14": 19
     }
   }
 ]
