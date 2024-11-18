@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.63%",
     "time": 1007,
-    "timeDay": 824,
-    "timeWeek": 737,
-    "timeMonth": 1060,
-    "timeYear": 1034,
+    "timeDay": 1058,
+    "timeWeek": 792,
+    "timeMonth": 951,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2024-10-25": 31,
       "2024-10-08": 106,
@@ -81,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "22.59%",
+    "uptime": "22.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.93%",
-    "time": 638,
-    "timeDay": 1000,
-    "timeWeek": 772,
-    "timeMonth": 825,
-    "timeYear": 746,
+    "uptimeYear": "34.48%",
+    "time": 641,
+    "timeDay": 1013,
+    "timeWeek": 798,
+    "timeMonth": 826,
+    "timeYear": 751,
     "dailyMinutesDown": {
       "2024-07-14": 278,
       "2024-07-13": 1440,
@@ -329,9 +329,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-20": 1440
     }
   },
   {
@@ -340,16 +338,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.premid.app.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 924,
-    "timeDay": 1063,
-    "timeWeek": 1139,
-    "timeMonth": 1182,
-    "timeYear": 958,
+    "time": 929,
+    "timeDay": 1132,
+    "timeWeek": 1498,
+    "timeMonth": 1215,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2024-09-14": 11,
       "2024-09-13": 8,
@@ -394,8 +392,7 @@
       "2023-12-27": 41,
       "2023-12-20": 25,
       "2023-12-18": 95,
-      "2023-12-12": 8,
-      "2023-11-19": 16
+      "2023-12-12": 8
     }
   },
   {
@@ -404,16 +401,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.premid.app.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.59%",
-    "time": 370,
-    "timeDay": 192,
-    "timeWeek": 254,
-    "timeMonth": 260,
-    "timeYear": 356,
+    "uptimeYear": "99.60%",
+    "time": 369,
+    "timeDay": 265,
+    "timeWeek": 263,
+    "timeMonth": 258,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2024-11-11": 37,
       "2024-11-04": 14,
@@ -463,8 +460,7 @@
       "2023-12-01": 8,
       "2023-11-25": 21,
       "2023-11-21": 192,
-      "2023-11-20": 105,
-      "2023-11-19": 216
+      "2023-11-20": 105
     }
   }
 ]
