@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.63%",
     "time": 1007,
-    "timeDay": 1058,
-    "timeWeek": 792,
-    "timeMonth": 951,
-    "timeYear": 1035,
+    "timeDay": 799,
+    "timeWeek": 801,
+    "timeMonth": 952,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2024-10-25": 31,
       "2024-10-08": 106,
@@ -81,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "22.70%",
+    "uptime": "22.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.57%",
-    "time": 641,
-    "timeDay": 1013,
-    "timeWeek": 798,
-    "timeMonth": 826,
-    "timeYear": 751,
+    "uptimeYear": "34.76%",
+    "time": 642,
+    "timeDay": 648,
+    "timeWeek": 803,
+    "timeMonth": 822,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2024-07-14": 278,
       "2024-07-13": 1440,
@@ -328,8 +328,7 @@
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
-      "2023-11-21": 1440,
-      "2023-11-20": 1440
+      "2023-11-21": 1440
     }
   },
   {
@@ -344,9 +343,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.79%",
     "time": 931,
-    "timeDay": 1242,
-    "timeWeek": 1454,
-    "timeMonth": 1220,
+    "timeDay": 1186,
+    "timeWeek": 1424,
+    "timeMonth": 1227,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2024-11-18": 21,
@@ -404,13 +403,13 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "98.56%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.60%",
     "time": 369,
-    "timeDay": 303,
-    "timeWeek": 277,
-    "timeMonth": 262,
+    "timeDay": 284,
+    "timeWeek": 255,
+    "timeMonth": 260,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2024-11-18": 21,
@@ -461,8 +460,7 @@
       "2023-12-03": 7,
       "2023-12-01": 8,
       "2023-11-25": 21,
-      "2023-11-21": 192,
-      "2023-11-20": 105
+      "2023-11-21": 192
     }
   }
 ]
