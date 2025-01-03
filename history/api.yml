@@ -1,7 +1,7 @@
 url: https://api.premid.app/v3
-status: up
-code: 415
-responseTime: 463
-lastUpdated: 2025-01-02T23:20:46.933Z
+status: down
+code: 503
+responseTime: 202
+lastUpdated: 2025-01-03T17:25:54.884Z
 startTime: 2020-08-17T15:16:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
