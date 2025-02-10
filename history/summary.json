@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.69%",
-    "time": 1017,
-    "timeDay": 747,
-    "timeWeek": 821,
-    "timeMonth": 998,
-    "timeYear": 955,
+    "time": 1018,
+    "timeDay": 689,
+    "timeWeek": 780,
+    "timeMonth": 997,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-01-12": 23,
       "2024-12-23": 15,
@@ -70,16 +70,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "26.61%",
+    "uptime": "26.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "57.20%",
+    "uptimeYear": "57.48%",
     "time": 733,
-    "timeDay": 669,
-    "timeWeek": 787,
-    "timeMonth": 831,
-    "timeYear": 805,
+    "timeDay": 634,
+    "timeWeek": 740,
+    "timeMonth": 825,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2025-01-12": 23,
       "2025-01-04": 52,
@@ -238,8 +238,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -253,11 +252,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 989,
-    "timeDay": 385,
-    "timeWeek": 522,
-    "timeMonth": 825,
-    "timeYear": 1001,
+    "time": 988,
+    "timeDay": 518,
+    "timeWeek": 501,
+    "timeMonth": 807,
+    "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-01-04": 7,
       "2025-01-03": 10,
@@ -311,9 +310,9 @@
     "uptimeWeek": "93.52%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "99.60%",
-    "time": 341,
-    "timeDay": 203,
-    "timeWeek": 239,
+    "time": 340,
+    "timeDay": 242,
+    "timeWeek": 238,
     "timeMonth": 250,
     "timeYear": 309,
     "dailyMinutesDown": {
@@ -359,8 +358,7 @@
       "2024-03-20": 32,
       "2024-02-25": 16,
       "2024-02-24": 26,
-      "2024-02-23": 8,
-      "2024-02-11": 8
+      "2024-02-23": 8
     }
   }
 ]
