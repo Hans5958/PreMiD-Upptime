@@ -56,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "29.27%",
+    "uptime": "29.28%",
     "uptimeDay": "73.66%",
     "uptimeWeek": "96.24%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "74.37%",
+    "uptimeYear": "74.39%",
     "time": 802,
     "timeDay": 639,
     "timeWeek": 710,
@@ -164,8 +164,7 @@
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
-      "2024-04-13": 1440,
-      "2024-04-12": 1440
+      "2024-04-13": 1440
     }
   },
   {
