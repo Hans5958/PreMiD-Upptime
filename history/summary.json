@@ -11,9 +11,9 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.72%",
     "time": 942,
-    "timeDay": 992,
-    "timeWeek": 854,
-    "timeMonth": 871,
+    "timeDay": 912,
+    "timeWeek": 834,
+    "timeMonth": 877,
     "timeYear": 896,
     "dailyMinutesDown": {
       "2025-05-13": 6,
@@ -55,15 +55,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "30.71%",
+    "uptime": "30.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.97%",
+    "uptimeYear": "84.24%",
     "time": 812,
-    "timeDay": 1339,
+    "timeDay": 973,
     "timeWeek": 875,
-    "timeMonth": 920,
+    "timeMonth": 929,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2025-04-13": 59,
@@ -128,8 +128,7 @@
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
-      "2024-05-19": 1440,
-      "2024-05-18": 1440
+      "2024-05-19": 1440
     }
   },
   {
@@ -144,9 +143,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 915,
-    "timeDay": 707,
-    "timeWeek": 544,
-    "timeMonth": 560,
+    "timeDay": 683,
+    "timeWeek": 548,
+    "timeMonth": 567,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2025-04-13": 212,
@@ -195,9 +194,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 271,
-    "timeDay": 285,
-    "timeWeek": 288,
-    "timeMonth": 279,
+    "timeDay": 293,
+    "timeWeek": 243,
+    "timeMonth": 280,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-04-13": 59,
