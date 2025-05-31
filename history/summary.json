@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.73%",
-    "time": 949,
-    "timeDay": 958,
-    "timeWeek": 810,
-    "timeMonth": 831,
-    "timeYear": 906,
+    "time": 950,
+    "timeDay": 894,
+    "timeWeek": 829,
+    "timeMonth": 833,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2025-05-20": 28,
       "2025-05-13": 6,
@@ -42,8 +42,7 @@
       "2024-06-09": 7,
       "2024-06-06": 8,
       "2024-06-02": 60,
-      "2024-06-01": 8,
-      "2024-05-31": 8
+      "2024-06-01": 8
     }
   },
   {
@@ -52,14 +51,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "31.22%",
+    "uptime": "31.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.53%",
+    "uptimeYear": "87.81%",
     "time": 810,
-    "timeDay": 889,
-    "timeWeek": 729,
+    "timeDay": 806,
+    "timeWeek": 742,
     "timeMonth": 798,
     "timeYear": 810,
     "dailyMinutesDown": {
@@ -112,8 +111,7 @@
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
-      "2024-06-01": 1440,
-      "2024-05-31": 1440
+      "2024-06-01": 1440
     }
   },
   {
@@ -126,12 +124,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 907,
-    "timeDay": 615,
-    "timeWeek": 475,
-    "timeMonth": 529,
-    "timeYear": 879,
+    "uptimeYear": "99.80%",
+    "time": 876,
+    "timeDay": 594,
+    "timeWeek": 496,
+    "timeMonth": 531,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2025-04-13": 212,
       "2025-04-11": 364,
@@ -171,10 +169,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.58%",
     "time": 273,
-    "timeDay": 222,
-    "timeWeek": 236,
-    "timeMonth": 265,
-    "timeYear": 282,
+    "timeDay": 689,
+    "timeWeek": 290,
+    "timeMonth": 278,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2025-05-26": 21,
       "2025-04-13": 59,
