@@ -11,10 +11,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.75%",
     "time": 952,
-    "timeDay": 1055,
-    "timeWeek": 846,
-    "timeMonth": 833,
-    "timeYear": 892,
+    "timeDay": 810,
+    "timeWeek": 838,
+    "timeMonth": 836,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2025-05-20": 28,
       "2025-05-13": 6,
@@ -37,8 +37,7 @@
       "2024-09-13": 78,
       "2024-07-31": 40,
       "2024-07-27": 8,
-      "2024-07-26": 15,
-      "2024-06-12": 7
+      "2024-07-26": 15
     }
   },
   {
@@ -47,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.premid.app.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "31.69%",
+    "uptime": "31.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.82%",
-    "time": 810,
-    "timeDay": 1026,
-    "timeWeek": 777,
-    "timeMonth": 794,
-    "timeYear": 810,
+    "uptimeYear": "91.09%",
+    "time": 809,
+    "timeDay": 612,
+    "timeWeek": 744,
+    "timeMonth": 793,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2025-04-13": 59,
       "2025-04-11": 379,
@@ -95,8 +94,7 @@
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
-      "2024-06-13": 1440,
-      "2024-06-12": 1440
+      "2024-06-13": 1440
     }
   },
   {
@@ -110,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 871,
-    "timeDay": 678,
-    "timeWeek": 493,
-    "timeMonth": 521,
-    "timeYear": 891,
+    "time": 870,
+    "timeDay": 405,
+    "timeWeek": 481,
+    "timeMonth": 519,
+    "timeYear": 889,
     "dailyMinutesDown": {
       "2025-04-13": 212,
       "2025-04-11": 364,
@@ -149,9 +147,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.58%",
     "time": 273,
-    "timeDay": 297,
-    "timeWeek": 238,
-    "timeMonth": 251,
+    "timeDay": 380,
+    "timeWeek": 265,
+    "timeMonth": 256,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2025-05-26": 21,
